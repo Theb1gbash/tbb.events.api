@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tbb.events.api", "tbb.events.api.csproj", "{00641626-9DED-4488-837A-7495ADC0E385}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00641626-9DED-4488-837A-7495ADC0E385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00641626-9DED-4488-837A-7495ADC0E385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00641626-9DED-4488-837A-7495ADC0E385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00641626-9DED-4488-837A-7495ADC0E385}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84D7113E-3376-491D-8D2F-477DC348E1A8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@tbb.events.api_HostAddress = http://localhost:5055
+
+GET {{tbb.events.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
